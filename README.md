@@ -55,6 +55,7 @@ What is ...
    <OL><LI>Real-time graph addition (RU: Дополнение графика в режиме реального времени)
    <LI>Adjusting the grid of the candles chart (RU: Корректировка сетки свечного графика)
    <LI>Correct display of limit orders for opening a position (RU: Корректное отображение лимитных  ордеров для открытия позиции)
+      </OL>
 <LI>Order book (RU: Стакан заявок)
    <OL><LI>Optimization of order display by price and volume (RU: Оптимизация отображения ордеров в стакане по цене и объему)
  </UL></UL>
