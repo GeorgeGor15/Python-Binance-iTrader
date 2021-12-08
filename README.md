@@ -47,14 +47,14 @@ What is ...
   
 ## Project roadmap
 <UL><B>FIX</B>
-  <UL><LI>Stop-loss and Take profit scales
+  <UL><LI>Stop-loss and Take profit scales (RU: Корректировка шкал Stop-loss и Take profit)
  <OL><LI>Fix Stop-loss and Take Profit scale max and min values (RU: Корректная шкала max и min значений Stop-Loss и Take-Profit)
    <LI>Add numeric values (price) Stop-loss and Take Profit (RU: Добавление числового значения (цены) Stop-Loss и Take-Profit), сейчас только %)
  </OL>
-<LI>Add List box with Limit futures orders (RU: Добавление списка лимитных ордеров для фьючерсов)
 <LI>Fix Candle chart (RU: Корректировка свечного графика)
    <OL><LI>Real-time graph addition (RU: Дополнение графика в режиме реального времени)
    <LI>Adjusting the grid of the candles chart (RU: Корректировка сетки свечного графика)
+   <LI>Correct display of limit orders for opening a position (RU: Корректное отображение лимитных  ордеров для открытия позиции)
  </UL></UL>
 <UL><B>ADDING</B>
 <UL><LI>SPOT trading (RU: Спотовая торговля)
