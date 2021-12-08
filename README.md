@@ -30,5 +30,7 @@ What is ...
 <OL><LI>Reconnection to Binance (RU: восстановление соединения с Binance)
 <LI>Connecting to Websocket Market Streams (RU: Подключение при помощи websocket технологии)
 <LI>And a lot of other things ... (RU: И много чего ещё ...)
-   
-
+</OL>   
+  
+# Window
+ ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/Tmp%20data/MW%20(0.0).jpg?raw=true)
