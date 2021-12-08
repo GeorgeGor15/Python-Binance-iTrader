@@ -17,9 +17,9 @@ I'm goona develop it as far as posible. If there is  an interest in this solutuo
 ## Code<BR>
 #### Architecture:
     
-2 files: "binance_api.py" - for requests Binance API, "Futures Watcher.py" - Tkinter gui
-  + "iTrader.cfg" - file to save KEYs. if the file is not found, the program will create it.
-  + dir "/Tmp data/" - to keep screenshots (and user guide - in progress) here
+2 files: "binance_api.py" - for requests Binance API, "Futures Watcher.py" - Tkinter gui<BR>
+and "iTrader.cfg" - file to save KEYs. if the file is not found, the program will create it.<BR>
+and dir "/Tmp data/" - to keep screenshots (and user guide - in progress) here<BR>
       
 
 ## Functional
