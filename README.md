@@ -90,7 +90,7 @@ What is ...
 <LI>Interface (RU: Интерфейс)
  <OL><LI>The ability to select the interface language (En/Ru) (RU: Возможность выбора языка интерфейса (En/Ru))
    <LI>Several color solutions of the style (RU: Несколько цветовых решений стиля)
-   <LI>Optimization of widgets and their location (RU: Optimization of widgets and their location)
+   <LI>Optimization of widgets and their location (RU: Оптимизация виджетов и их расположения)
  </OL>  
  <LI>User guide or manual (RU: Руководство пользователя или инструкция)
   </UL></UL>
