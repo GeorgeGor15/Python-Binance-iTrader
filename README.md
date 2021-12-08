@@ -45,6 +45,52 @@ What is ...
  While there is no user guide or manual, I will post it here
  ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/Tmp%20data/MW%20(0.1).jpg)
   
+## Project roadmap
+<UL><B>FIX</B>
+  <UL><LI>Stop-loss and Take profit scales
+ <OL><LI>Fix Stop-loss and Take Profit scale max and min values (RU: Корректная шкала max и min значений Stop-Loss и Take-Profit)
+   <LI>Add numeric values (price) Stop-loss and Take Profit (RU: Добавление числового значения (цены) Stop-Loss и Take-Profit), сейчас только %)
+ </OL>
+<LI>Add List box with Limit futures orders (RU: Добавление списка лимитных ордеров для фьючерсов)
+<LI>Fix Candle chart (RU: Корректировка свечного графика)
+   <OL><LI>Real-time graph addition (RU: Дополнение графика в режиме реального времени)
+   <LI>Adjusting the grid of the candles chart (RU: Корректировка сетки свечного графика)
+ </UL></UL>
+<UL><B>ADDING</B>
+<UL><LI>SPOT trading (RU: Спотовая торговля)
+ <OL><LI>Create and delete orders (RU: Создание и удаление ордеров)
+   <LI>List of orders (RU: Список ордеров)
+   <LI>Preliminary calculation profit or loss (RU: Предварительный расчет прибыли или убытка)
+   <LI>Trading history as list (RU: История торговли списком)
+   <LI>Trading history on charts (RU: История торговли на графиках)
+ </OL>  
+<LI>Futures trading (RU: Фьючерсная торговля)
+ <OL><LI>Create and delete few LIMIT orders (RU: Создание и удаление нескольких лимитных ордеров)
+   <LI>List of current orders (RU: Список текущих ордеров)
+   <LI>Trading history as list (RU: История торговли списком)
+   <LI>Trading history on charts (RU: История торговли на графиках)
+ </OL>
+<LI>Connecting to Binance (RU: Подключение к Binance)
+ <OL><LI>Messages about connection errors that have occurred (RU: Сообщения о возникших ошибках подключения)
+   <LI>Restoring connection in case of loss of connection (RU: Восстановление подключения в случае потери связи)
+   <LI>Connecting websocket for reading streaming data (RU: Подключение к websocket для считывания потоковых данных)
+   <LI>Ping monitoring (RU: Мониторинг пинга)
+   <LI>Optimization and monitoring of the weight of requests (RU: оптимизация и мониторинг параметра weight в requests)
+ </OL>  
+<LI>Charts (RU: Графики)
+ <OL><LI>Convient scaling graphs (RU: Удобное масштабирование графиков)
+   <LI>Optional display of trading history on charts (RU: Опциональное отображение истории торговли на графиках)
+   <LI>Adding other types of charts (RU: Добавление других видов графиков)
+   <LI>Adding the ability to display multiple graphs (RU: Добавление возможности отображения нескольких графиков)
+ </OL>  
+<LI>Interface (RU: Интерфейс)
+ <OL><LI>The ability to select the interface language (En/Ru) (RU: Возможность выбора языка интерфейса (En/Ru))
+   <LI>Several color solutions of the style (RU: Несколько цветовых решений стиля)
+   <LI>Optimization of widgets and their location (RU: Optimization of widgets and their location)
+ </OL>  
+ <LI>User guide or manual (RU: Руководство пользователя или инструкция)
+  </UL></UL>
+  
   
 ## Contributions are welcome<BR>
 No donation or anything is needed at all, but if you found the code useful, I'll leave a few of my addresses below:<BR>
