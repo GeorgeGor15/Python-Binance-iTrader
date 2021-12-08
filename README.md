@@ -44,5 +44,5 @@ What is ...
 ## Contributions are welcome<BR>
 No donation or anything is needed at all, but if you found the code useful, I'll leave a few of my addresses below:<BR>
 <BR>
-XRP (Ripple): rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh, MEMO: 108338326<BR>
+XRP (Ripple): rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh, MEMO: 108338326 (it is mandatory to specify a MEMO)<BR>
 WAVES: 3P3SMBtuJLf5NaNM75sNVYycW2SUUPGhDdp
