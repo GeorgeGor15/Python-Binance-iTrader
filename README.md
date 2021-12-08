@@ -43,7 +43,7 @@ What is ...
  ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/Tmp%20data/MW%20(0.0).jpg?raw=true)
   
 ## User guide
- While there is no user guide or manual, I will post it here
+ While there is no user guide or manual, I posted it here
  ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/Tmp%20data/MW%20(0.1).jpg)
   
 ## Project roadmap
