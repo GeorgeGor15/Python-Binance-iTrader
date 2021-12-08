@@ -41,6 +41,11 @@ What is ...
 ## Window
  ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/Tmp%20data/MW%20(0.0).jpg?raw=true)
   
+## User guide
+ While there is no user guide or manual, I will post it here
+ ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/Tmp%20data/MW%20(0.1).jpg)
+  
+  
 ## Contributions are welcome<BR>
 No donation or anything is needed at all, but if you found the code useful, I'll leave a few of my addresses below:<BR>
 <BR>
