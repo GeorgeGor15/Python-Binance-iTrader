@@ -14,11 +14,13 @@ I'm goona develop it as far as posible. If there is  an interest in this solutuo
 Я планирую развивать этот проект по мере возможности. Если к данному проекту будет проявлен интерес, я готов к сотрудничеству.
 
   
-# State
-Project is UPLOADING at the moment. Please stand by ...
-  
+## Code<BR>
+#### Architecture:
+    
+2 files: "binance_api.py" - for requests Binance API, "Futures Watcher.py" - Tkinter gui
+      
 
-# Functional
+## Functional
 What is ...
 <OL><LI>Reading account balances and open futures positions (RU: Считывание баланса аккаунта и открытых позиций для фьючерсов)
 <LI>BTC/USDT watcher. BTC price changes in the last 5 minutes (RU: Наблюдатель BTC/USDT. Изменение цены BTC за последние 5 минут)
@@ -34,5 +36,11 @@ What is ...
 <LI>And a lot of other things ... (RU: И много чего ещё ...)
 </OL>   
   
-# Window
+## Window
  ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/Tmp%20data/MW%20(0.0).jpg?raw=true)
+  
+## Contributions are welcome<BR>
+No donation or anything is needed at all, but if you found the code useful, I'll leave a few of my addresses below:<BR>
+<BR>
+XRP (Ripple): rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh, MEMO: 108338326<BR>
+WAVES: 3P3SMBtuJLf5NaNM75sNVYycW2SUUPGhDdp
