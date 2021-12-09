@@ -2712,16 +2712,20 @@ class gui:
             if len(myTuplEI1)>0 and len(mylistSP)>0:
                for mm in range (len(mylistSP)):
                     if mylistSP[mm]['symbol'] == SP:
-                        tstr += '\n status: ' + mylistSP[mm]['status']
-                        tstr += '\n baseAsset: ' + mylistSP[mm]['baseAsset']
-                        tstr += '\n quoteAsset: ' + mylistSP[mm]['quoteAsset']
+                        app.Tree_PI.item(1, values=('symbol',mylistSP[mm]['symbol']))
+                        app.Tree_PI.item(2, values=('status',mylistSP[mm]['status']))
+                        app.Tree_PI.item(3, values=('baseAsset',mylistSP[mm]['baseAsset']))
+                        app.Tree_PI.item(4, values=('quoteAsset',mylistSP[mm]['quoteAsset']))
+                        app.Tree_PI.item(5, values=('marginAsset','-'))
+                        app.Tree_PI.item(6, values=('contractType','-'))
                         mylist10 = []
                         mylist10 = mylistSP[mm]['filters']
                         if len(mylist10)>0:
-                            tstr += '\n minPrice: ' + mylist10[0]['minPrice']
-                            tstr += '\n maxPrice: ' + mylist10[0]['maxPrice']
-                            tstr += '\n tickSize: ' + mylist10[0]['tickSize']
-                            tstr += '\n maxQty: ' + mylist10[5]['maxQty']
+                            app.Tree_PI.item(7, values=('minPrice',mylist10[0]['minPrice']))
+                            app.Tree_PI.item(8, values=('maxPrice',mylist10[0]['maxPrice']))
+                            app.Tree_PI.item(9, values=('tickSize',mylist10[0]['tickSize']))
+                            app.Tree_PI.item(10, values=('maxQty',mylist10[2]['maxQty']))
+                            app.Tree_PI.item(11, values=('stepSize',mylist10[2]['stepSize']))
                             prSt = float(mylist10[0]['tickSize'])
                             grSt = 16
                             grOW = 1000
@@ -2738,11 +2742,6 @@ class gui:
                for mm in range (len(mylistFT)):
                     if mylistFT[mm]['symbol'] == SP:
                         #print(mylistFT[mm])
-                        tstr += '\n status' + mylistFT[mm]['status']
-                        tstr += '\n baseAsset: ' + mylistFT[mm]['baseAsset']
-                        tstr += '\n quoteAsset: ' + mylistFT[mm]['quoteAsset']
-                        tstr += '\n marginAsset: ' + mylistFT[mm]['marginAsset']
-                        tstr += '\n contractType: ' + mylistFT[mm]['contractType']
                         app.Tree_PI.item(1, values=('symbol',mylistFT[mm]['symbol']))
                         app.Tree_PI.item(2, values=('status',mylistFT[mm]['status']))
                         app.Tree_PI.item(3, values=('baseAsset',mylistFT[mm]['baseAsset']))
@@ -2752,10 +2751,6 @@ class gui:
                         mylist10 = []
                         mylist10 = mylistFT[mm]['filters']
                         if len(mylist10)>0:
-                            tstr += '\n minPrice: ' + mylist10[0]['minPrice']
-                            tstr += '\n maxPrice: ' + mylist10[0]['maxPrice']
-                            tstr += '\n tickSize: ' + mylist10[0]['tickSize']
-                            tstr += '\n maxQty: ' + str(mylist10[2]['maxQty'])
                             prSt = float(mylist10[0]['tickSize'])
                             orLSS= float(mylist10[1]['stepSize'])
                             grSt = 16
