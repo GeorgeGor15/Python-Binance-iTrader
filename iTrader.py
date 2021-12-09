@@ -2733,9 +2733,6 @@ class gui:
                             Lo=0                                
                             grSmb = SP
 
-            if tstr == '':
-                tstr = ''
-                                       
         elif MS == 'FUTURES':
             tstr = 'FUTURES'
             if len(myTuplEI2)>0 and len(mylistFT)>0:
