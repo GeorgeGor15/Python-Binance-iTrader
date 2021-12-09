@@ -2734,7 +2734,7 @@ class gui:
                             grSmb = SP
 
             if tstr == '':
-                tstr = 'HERNIYA'
+                tstr = ''
                                        
         elif MS == 'FUTURES':
             tstr = 'FUTURES'
