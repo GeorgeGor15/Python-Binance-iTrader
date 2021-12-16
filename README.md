@@ -6,7 +6,7 @@ Unfortunately, the main interface language is still Russian <BR>
 
 I'm goona develop it as far as posible. If there is  an interest in this solutuon, i am ready to cooperate.
 
-<B>RU:</B> Это демо проект для торговли на бирже Binance.<BR>
+<B>RU:</B> Это проект для торговли на бирже Binance.<BR>
 Основная идея проекта заключается в том, чтобы считывать только те данные, которые необходимы.<BR>
 В проекте реализована лишь небольшая часть биржевого функционала.<BR>
 В настоящий момент основной язык интерфейса всё-таки русский с вкроплениями английского<BR>
