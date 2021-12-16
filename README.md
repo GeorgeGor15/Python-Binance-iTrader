@@ -19,13 +19,16 @@ I'm goona develop it as far as posible. If there is  an interest in this solutuo
  - dir: "ver 0.0 (demo)" - demo version 0.0. <A href="https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/ver%200.0%20(demo)/README.md">Readme.md</A>   
  - dir: "ver 1.0 (en)" - version 1.0 with interface in english . (In progress... 16-17 December gonna load it)  
  - dir: "ver 1.0 (ru)" - version 1.0 with interface in russian . (In progress... 16-17 December gonna load it) 
+ - "DIARY.md" - file description of project changes.
   
-#### Project Architecture:
+#### Project Architecture (each version):
 <UL>2 python files: <BR>
   <LI>"binance_api.py" - for requests Binance API, <BR>
-  <LI>"iTrader.py" - Tkinter gui</OL></UL><BR>
+  <LI>"iTrader.py" - Tkinter gui</OL></UL>
 <UL>1 config file: <BR>
-<LI>"iTrader.cfg" - file to save KEYs. if the file is not found, the program will create it.</UL><BR>
+<LI>"iTrader.cfg" - file to save KEYs. if the file is not found, the program will create it. </UL>
+<UL>README file: <BR>
+<LI>"README.md" - file description of the current version.</UL>
 <UL>Additionally: <BR>
  <LI>dir "/Tmp data/" - to keep screenshots (and user guide - in progress) here</UL><BR>
       
@@ -47,7 +50,10 @@ What is ...
 </OL>   
   
 ## Window
- ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/Tmp%20data/MW%20(0.0).jpg?raw=true)
+  <B>demo-version 0.0</B>
+ ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/Tmp%20data/MW%20(0.0).jpg?raw=true)<BR><BR>
+  <B>version 1.0 ru</B>
+ ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/ver%201.0%20(ru)/Tmp%20data/MW%20(1.0).jpg?raw=true)
   
 ## Project roadmap
 <UL><B>FIX</B>
