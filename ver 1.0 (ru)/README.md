@@ -2,14 +2,14 @@
 <B>En:</B> This is a project for trading on the Binance.<BR>
 The main idea of the project is to read only the data that is needed. <BR>
 Only a small part of the exchange functionality is implemented in the project. <BR>
-Unfortunately, the main interface language is still Russian <BR>
+The main interface language of this version is Russian <BR>
 
 I'm goona develop it as far as posible. If there is  an interest in this solutuon, i am ready to cooperate.
 
 <B>RU:</B> Это проект для торговли на бирже Binance.<BR>
 Основная идея проекта заключается в том, чтобы считывать только те данные, которые необходимы.<BR>
 В проекте реализована лишь небольшая часть биржевого функционала.<BR>
-В настоящий момент основной язык интерфейса всё-таки русский с вкроплениями английского<BR>
+Основной язык интерфейса данной версии - русский (с вкроплениями английского)<BR>
 
 Я планирую развивать этот проект по мере возможности. Если к данному проекту будет проявлен интерес, я готов к сотрудничеству.
 
