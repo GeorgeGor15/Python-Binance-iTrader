@@ -54,5 +54,5 @@ I'm goona develop it as far as posible. If there is  an interest in this solutuo
 Так как проект становится сложнее и требует больше времени и внимания, я буду благодарен за любую помощь (несколько моих адресов ниже):<BR>
 <BR>
 BCH (Bitcoin Cash)  : 1H2PnxbtkzfZj5Zwa5ZPjSwULp29mzZVCX  <BR>
-XRP (Ripple): rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh, MEMO: 108338326 (it is mandatory to specify a MEMO)<BR>
+XRP (Ripple): rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh, MEMO: 108338326 (Обязательно указывайте MEMO)<BR>
 WAVES: 3P3SMBtuJLf5NaNM75sNVYycW2SUUPGhDdp
