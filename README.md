@@ -14,13 +14,20 @@ I'm goona develop it as far as posible. If there is  an interest in this solutuo
 Я планирую развивать этот проект по мере возможности. Если к данному проекту будет проявлен интерес, я готов к сотрудничеству.
 
   
-## Code<BR>
-#### Architecture:
-    
-2 files: "binance_api.py" - for requests Binance API, "iTrader.py" - Tkinter gui<BR>
-and "iTrader.cfg" - file to save KEYs. if the file is not found, the program will create it.<BR>
-<BR>
-dir "/Tmp data/" - to keep screenshots (and user guide - in progress) here<BR>
+## Project<BR>
+#### Version Architecture:
+ - dir: "ver 0.0 (demo)" - demo version 0.0. <A href="https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/ver%200.0%20(demo)/README.md">Readme.md</A>   
+ - dir: "ver 1.0 (en)" - version 1.0 with interface in english . (In progress)  
+ - dir: "ver 1.0 (ru)" - version 1.0 with interface in russian . (In progress) 
+  
+#### Project Architecture:
+<UL>2 python files: <BR>
+  <LI>"binance_api.py" - for requests Binance API, <BR>
+  <LI>"iTrader.py" - Tkinter gui</OL></UL><BR>
+<UL>1 config file: <BR>
+<LI>"iTrader.cfg" - file to save KEYs. if the file is not found, the program will create it.</UL><BR>
+<UL>Additionally: <BR>
+ <LI>dir "/Tmp data/" - to keep screenshots (and user guide - in progress) here</UL><BR>
       
 
 ## Functional
