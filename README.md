@@ -100,7 +100,7 @@ What is ...
   
   
 ## Contributions are welcome<BR>
-No donation or anything is needed at all, but if you found the code useful, I'll leave a few of my addresses below:<BR>
+As the project becomes more complex and requires more time and attention, ш will be grateful for any help (few of my addresses below):<BR>
 <BR>
 BCH (Bitcoin Cash)  : 1H2PnxbtkzfZj5Zwa5ZPjSwULp29mzZVCX  <BR>
 XRP (Ripple): rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh, MEMO: 108338326 (it is mandatory to specify a MEMO)<BR>
