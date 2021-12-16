@@ -50,7 +50,7 @@ I'm goona develop it as far as posible. If there is  an interest in this solutuo
  ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/ver%201.0%20(ru)/Tmp%20data/MW%20(1.0).jpg?raw=true)
   
   
-## Финансования поддержка приветствуется<BR>
+## Финансовая поддержка приветствуется<BR>
 Так как проект становится сложнее и требует больше времени и внимания, я буду благодарен за любую помощь (несколько моих адресов ниже):<BR>
 <BR>
 BCH (Bitcoin Cash)  : 1H2PnxbtkzfZj5Zwa5ZPjSwULp29mzZVCX  <BR>
