@@ -40,11 +40,11 @@ What is ...
 </OL>   
   
 ## Window
- ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/Tmp%20data/MW%20(0.0).jpg?raw=true)
+ ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/ver%200.0%20(demo)/Tmp%20data/MW%20(0.0).jpg?raw=true)
   
 ## User guide
  While there is no user guide or manual, I posted it here
- ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/Tmp%20data/MW%20(0.1).jpg)
+ ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/ver%200.0%20(demo)/Tmp%20data/MW%20(0.1).jpg)
   
 ## Project roadmap
 <UL><B>FIX</B>
