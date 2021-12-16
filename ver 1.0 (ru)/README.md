@@ -20,7 +20,7 @@ I'm goona develop it as far as posible. If there is  an interest in this solutuo
  - dir: "ver 1.0 (en)" - версия 1.0 с английским интерфейсом. (В процессе... 16-17 декабря планирую загрузить)  
  - dir: "ver 0.0 (demo)" - демо-версия 0.0. <A href="https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/ver%200.0%20(demo)/README.md">Readme.md</A>   
   
-#### Архитектура версий:
+#### Архитектура проекта:
 <UL>2 python файла: <BR>
   <LI>"binance_api.py" - для обращений к Binance API, <BR>
   <LI>"iTrader.py" - интерфейс основного окна на Tkinter gui</OL></UL><BR>
