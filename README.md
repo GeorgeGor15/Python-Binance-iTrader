@@ -57,7 +57,7 @@ What is ...
   
 ## Project roadmap
 <UL><B>FIX</B>
-  <UL><LI>Stop-loss and Take profit scales (RU: Корректировка шкал Stop-loss и Take profit) - DONE v 1.0
+  <UL><LI>Stop-loss and Take profit scales (RU: Корректировка шкал Stop-loss и Take profit)
  <OL><LI>Fix Stop-loss and Take Profit scale max and min values (RU: Корректная шкала max и min значений Stop-Loss и Take-Profit) - DONE v 1.0
    <LI>Add numeric values (price) Stop-loss and Take Profit (RU: Добавление числового значения (цены) Stop-Loss и Take-Profit), сейчас только %)
  </OL>
