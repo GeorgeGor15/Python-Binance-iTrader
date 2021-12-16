@@ -14,36 +14,36 @@ I'm goona develop it as far as posible. If there is  an interest in this solutuo
 Я планирую развивать этот проект по мере возможности. Если к данному проекту будет проявлен интерес, я готов к сотрудничеству.
 
   
-## Project<BR>
-#### Version Architecture:
- - dir: "ver 0.0 (demo)" - demo version 0.0. <A href="https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/ver%200.0%20(demo)/README.md">Readme.md</A>   
- - dir: "ver 1.0 (en)" - version 1.0 with interface in english . (In progress... 16-17 December gonna load it)  
- - dir: "ver 1.0 (ru)" - version 1.0 with interface in russian . (In progress... 16-17 December gonna load it) 
+## Проект<BR>
+#### Архитектура версий:
+ - dir: "ver 0.0 (demo)" - демо-версия 0.0. <A href="https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/ver%200.0%20(demo)/README.md">Readme.md</A>   
+ - dir: "ver 1.0 (en)" - версия 1.0 с английским интерфейсом. (В процессе... 16-17 декабря планирую загрузить)  
+ - dir: "ver 1.0 (ru)" - версия 1.0 с русским интерфейсом. (В процессе... Загружаю) 
   
-#### Project Architecture:
-<UL>2 python files: <BR>
-  <LI>"binance_api.py" - for requests Binance API, <BR>
-  <LI>"iTrader.py" - Tkinter gui</OL></UL><BR>
-<UL>1 config file: <BR>
-<LI>"iTrader.cfg" - file to save KEYs. if the file is not found, the program will create it.</UL><BR>
+#### Архитектура версий:
+<UL>2 python файла: <BR>
+  <LI>"binance_api.py" - для обращений к Binance API, <BR>
+  <LI>"iTrader.py" - интерфейс основного окна на Tkinter gui</OL></UL><BR>
+<UL>1 файл конфигурации: <BR>
+<LI>"iTrader.cfg" - файл для хранения Binance API KEYs. Если файл не найден, программа создаст его.</UL><BR>
 <UL>Additionally: <BR>
- <LI>dir "/Tmp data/" - to keep screenshots (and user guide - in progress) here</UL><BR>
+ <LI>dir "/Tmp data/" - папка для хранения скриншотов на GitHub (и руководства пользователя/мануала - в процессе)</UL><BR>
       
 
-## Functional
-What is ...
-<OL><LI>Reading account balances and open futures positions (RU: Считывание баланса аккаунта и открытых позиций для фьючерсов)
-<LI>BTC/USDT watcher. BTC price changes in the last 5 minutes (RU: Наблюдатель BTC/USDT. Изменение цены BTC за последние 5 минут)
-<LI>The tick chart of the pair for a few minutes (RU: Тиковый график пары несколько минут)
-<LI>Candle chart of the pair (RU: Свечной график пары)
-<LI>Candle chart of spot and futurers trading of the pair (RU: Свечной график спотовой и фьючерсной торговли пары)
-<LI>Futures trading: change Stop-Loss and Take-Profit of the open position on a candle chart (RU: Фьючерсы: изменение стоп-лосс и тейк профит открытой позиции на свечном графике)
-<LI>Futures trading: opening a position (RU: Фьючерсы: открытие позиции)
+## Функционал
+Что есть ...
+<OL><LI>Считывание баланса аккаунта и открытых позиций для фьючерсов
+<LI>Наблюдатель BTC/USDT. Изменение цены BTC за последние 5 минут
+<LI>Тиковый график пары (несколько минут)
+<LI>Свечной график пары
+<LI>Свечной график спотовой и фьючерсной торговли пары
+<LI>Фьючерсы: изменение стоп-лосс и тейк профит открытой позиции на свечном графике
+<LI>Фьючерсы: открытие позиции
 </OL>
- What is not implemented
-<OL><LI>Reconnection to Binance (RU: восстановление соединения с Binance)
-<LI>Connecting to Websocket Market Streams (RU: Подключение при помощи websocket технологии)
-<LI>And a lot of other things ... (RU: И много чего ещё ...)
+ Что не реализовано
+<OL><LI>Восстановление соединения с Binance
+<LI>Подключение при помощи websocket технологии
+<LI>И много чего ещё ...
 </OL>   
   
 ## Window
