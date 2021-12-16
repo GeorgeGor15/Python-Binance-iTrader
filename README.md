@@ -100,7 +100,8 @@ What is ...
   
   
 ## Contributions are welcome<BR>
-As the project becomes more complex and requires more time and attention, i will be grateful for any help (few of my addresses below): (RU: Так как проект становится сложнее и требует больше времени и внимания я буду благодарен за любую помощь)<BR>
+As the project becomes more complex and requires more time and attention, i will be grateful for any help (few of my addresses below):<BR>
+ (RU: Так как проект становится сложнее и требует больше времени и внимания, я буду благодарен за любую помощь:)<BR>
 <BR>
 BCH (Bitcoin Cash)  : 1H2PnxbtkzfZj5Zwa5ZPjSwULp29mzZVCX  <BR>
 XRP (Ripple): rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh, MEMO: 108338326 (it is mandatory to specify a MEMO)<BR>
