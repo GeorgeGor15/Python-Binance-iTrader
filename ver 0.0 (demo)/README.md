@@ -1,4 +1,4 @@
-# Python-Binance-iTrader
+# Python-Binance-iTrader (v 0.0)
 <B>En:</B> At the moment this is a demo project for trading on the Binance.<BR>
 The main idea of the project is to read only the data that is needed. <BR>
 Only a small part of the exchange functionality is implemented in the project. <BR>
