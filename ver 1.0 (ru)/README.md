@@ -47,7 +47,7 @@ I'm goona develop it as far as posible. If there is  an interest in this solutuo
 </OL>   
   
 ## Window
- ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/Tmp%20data/MW%20(0.0).jpg?raw=true)
+ ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/ver%201.0%20(ru)/Tmp%20data/MW%20(1.0).jpg?raw=true)
   
 ## Project roadmap
 <UL><B>FIX</B>
