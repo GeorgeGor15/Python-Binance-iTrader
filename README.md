@@ -72,7 +72,7 @@ What is ...
 <UL><B>ADDING</B>
 <UL><LI>SPOT trading (RU: Спотовая торговля)
  <OL><LI>Create and delete orders (RU: Создание и удаление ордеров)
-   <LI>List of orders (RU: Список ордеров) - DONE v 1.0
+   <LI>List of orders (RU: Список ордеров)
    <LI>Preliminary calculation profit or loss (RU: Предварительный расчет прибыли или убытка)
    <LI>Trading history as list (RU: История торговли списком)
    <LI>Trading history on charts (RU: История торговли на графиках)
