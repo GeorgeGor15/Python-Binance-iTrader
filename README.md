@@ -17,7 +17,7 @@ I'm goona develop it as far as posible. If there is  an interest in this solutuo
 ## Project<BR>
 #### Version Architecture:
  - dir: "ver 0.0 (demo)" - demo version 0.0. <A href="https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/ver%200.0%20(demo)/README.md">Readme.md</A>   
- - dir: "ver 1.0 (en)" - version 1.0 with interface in english . (In progress... 16-17 December gonna load it)  
+ - dir: "ver 1.0 (en)" - version 1.0 with interface in english . (In progress... 20th December gonna load it)  
  - dir: "ver 1.0 (ru)" - version 1.0 with interface in russian (<A href="https://github.com/GeorgeGor15/Python-Binance-iTrader/tree/main/ver%201.0%20(ru)">follow</A>)
  - "DIARY.md" - file description of project changes.
   
