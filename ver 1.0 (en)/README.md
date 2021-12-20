@@ -10,7 +10,7 @@ I'm goona develop it as far as posible. If there is  an interest in this solutuo
 #### Version architecture:
  - dir: "ver 1.0 (en)" - version 1.0 with English interface - current version (In the process...) 
  - dir: "ver 1.0 (ru)" - version 1.0 with Russian interface (<A href="https://github.com/GeorgeGor15/Python-Binance-iTrader/tree/main/ver%201.0%20(ru)">follow</A>)
- - dir: "ver 0.0 (demo)" - демо-версия 0.0. <A href="https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/ver%200.0%20(demo)/README.md">Readme.md</A>   
+ - dir: "ver 0.0 (demo)" - demo version 0.0. <A href="https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/ver%200.0%20(demo)/README.md">Readme.md</A>   
   
 #### Project architecture:
 <UL>2 python files: <BR>
