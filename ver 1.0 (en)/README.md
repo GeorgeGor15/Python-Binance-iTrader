@@ -38,8 +38,8 @@ What is ...
 <LI>And a lot of other things ...
 </OL>   
   
-## Основное окно
- ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/ver%201.0%20(ru)/Tmp%20data/MW%20(1.0).jpg?raw=true)
+## Window
+ ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/ver%201.0%20(en)/Tmp%20data/MW%20(1.0).jpg?raw=true)
   
   
 ## Feedback and financial support are welcome<BR>
