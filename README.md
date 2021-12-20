@@ -53,7 +53,9 @@ What is ...
   <B>demo-version 0.0</B>
  ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/Tmp%20data/MW%20(0.0).jpg?raw=true)<BR><BR>
   <B>version 1.0 ru</B>
- ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/ver%201.0%20(ru)/Tmp%20data/MW%20(1.0).jpg?raw=true)
+ ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/ver%201.0%20(ru)/Tmp%20data/MW%20(1.0).jpg?raw=true)<BR><BR>
+  <B>version 1.0 en</B>
+ ![window](https://github.com/GeorgeGor15/Python-Binance-iTrader/blob/main/ver%201.0%20(en)/Tmp%20data/MW%20(1.0).jpg?raw=true)
   
 ## Project roadmap
 <UL><B>FIX</B>
