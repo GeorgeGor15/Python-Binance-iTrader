@@ -105,9 +105,13 @@ What is ...
   </UL></UL>
   
   
-## Contributions are welcome<BR>
-As the project becomes more complex and requires more time and attention, i will be grateful for any help (few of my addresses below):<BR>
- (RU: Так как проект становится сложнее и требует больше времени и внимания, я буду благодарен за любую помощь:)<BR>
+## Feedback and financial support are welcome<BR>
+If you have found this project useful for yourself or are interested in its development - this is, of course, wonderful.<BR>
+For feedback, write to me in Telegram: @GeorgeGor15<BR>
+However, as the project becomes more complex and requires more time and attention, I will be grateful for any help (a few of my addresses below):<BR>
+ (RU: Если Вы нашли данный проект полезным для себя или заинтересованы в его развитии - это, конечно, замечательно.<BR>
+Для обратной связи напишите мне в Телеграм: @GeorgeGor15<BR>
+Вместе с тем, так как проект становится сложнее и требует больше времени и внимания, я буду благодарен за любую помощь (несколько моих адресов ниже):<BR>
 <BR>
 BCH (Bitcoin Cash)  : 1H2PnxbtkzfZj5Zwa5ZPjSwULp29mzZVCX  <BR>
 XRP (Ripple): rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh, MEMO: 108338326 (it is mandatory to specify a MEMO)<BR>
