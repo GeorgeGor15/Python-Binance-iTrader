@@ -26,7 +26,7 @@ I'm goona develop it as far as posible. If there is  an interest in this solutuo
   <LI>"iTrader.py" - интерфейс основного окна на Tkinter gui</OL></UL><BR>
 <UL>1 файл конфигурации: <BR>
 <LI>"iTrader.cfg" - файл для хранения Binance API KEYs. Если файл не найден, программа создаст его.</UL><BR>
-<UL>Additionally: <BR>
+<UL>Дополнительно: <BR>
  <LI>dir "/Tmp data/" - папка для хранения скриншотов на GitHub (и руководства пользователя/мануала - в процессе)</UL><BR>
       
 
